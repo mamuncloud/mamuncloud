@@ -36,6 +36,17 @@ I focus on leverage:
 - Data-driven decisions > assumptions  
 
 ---
+### Top Languange
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamuncloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Coding Statistics
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@mamunsyuhada/07bebc37-2201-4745-a4a3-14d182b21028.svg" /></a>
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@mamunsyuhada/547479a4-e37c-4e42-ac23-37e4d8d1a2bd.svg" /></a>
+<br>
+
+---
 
 ### 📫 Connect
 - GitHub: https://github.com/mamuncloud

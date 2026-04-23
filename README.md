@@ -1,6 +1,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mamuncloud&color=blueviolet&style=flat)](https://mamun.cloud)
 
-### Hi, I'm Mamun 👋
+### Hi there, I'm [Mamun](https://mamun.cloud)! 👋
 
 Backend Engineer & Trader with a focus on building scalable systems and making data-driven decisions.
 
@@ -21,10 +21,11 @@ Backend Engineer & Trader with a focus on building scalable systems and making d
 ---
 
 ### 🛠 Tech Stack
-- **Backend:** Node.js, PHP, Laravel
-- **Frontend:** React, Next.js
+- **Backend:** Node.js, Nestjs, GoFiber
+- **Frontend:** Next.js
 - **Database:** MySQL, PostgreSQL
-- **Tools:** Docker, Git, Linux
+- **Tools:** Git, Linux
+- **DevOps:** Kubernetes, Docker, Jenkins
 
 ---
 
